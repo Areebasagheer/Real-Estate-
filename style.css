@@ -1,0 +1,217 @@
+@font-face {
+    font-family: 'Poppins-ExtraBold.ttf';
+    src: url('Poppins-ExtraBold.ttf');
+}
+.first ul {
+    font-family: 'Poppins-ExtraBold.ttf';
+}
+.bg-custom {
+    background: #FAFAFA;
+}
+.navbar-nav{
+    background: #FEFEFF;
+    border-radius: 40px;
+}
+.third img {
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+}
+.btn-custom {
+    color: black;
+}
+.one {
+   margin: 10px 90px 0px 0px ;
+}
+.btn-custom {
+    background: #FEFEFF;
+}
+.second {
+    border: 1px solid #BEBEBE;
+    border-radius: 40px;
+    Padding: 13px 30px 13px 30px;
+    Gap: 10px;
+}
+.four {
+    background: linear-gradient(90deg, #c1dee8 0%, #fbd9b9 100%);
+    border-radius: 15px;
+    margin: 20px 20px 0 20px;
+    padding: 0 15px;
+    height: 670px;
+}
+.two {
+    font-size: 53px;
+    font-weight: 600;
+    line-height: 70.4px;
+    text-align: left;
+    margin: 22px 0;
+}
+.five {
+    padding: 73px 0 34px 34px;
+}
+.a {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 24.2px;
+    text-align: left;
+}
+.two {
+    margin-top: 20px;
+    font-weight: bold;
+}
+.eight {
+    margin: 20px 0px 0px 0px;
+}
+.six {
+    margin: 30px 0px 0px 0px;
+}
+.f img {
+    width: 50%;
+    margin-top: -370px;
+    margin-left: 450px;
+}
+.btn-zero {
+    background: #000;
+    color: white;
+    padding: 12px;
+    margin-left: -45px;
+    width: 130px;
+    height: 51px;
+    font-size: 15px;
+}
+.b {
+    border-radius: 40px;
+    width: 277px;
+    height: 51px;
+}
+.b::placeholder{
+    padding-left: 15px;
+    font-size: 15px;
+}
+.ten h6 {
+    width: 50%;
+    margin-top: 90px;
+    text-align: center;
+    margin: auto;
+    margin-top: 90px;
+}
+.ae h1 {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+.heading {
+    justify-content: space-between;
+}
+.heading .ai p {
+    font-weight: 400;
+}
+.ac {
+    margin-top: 70px;
+}
+.ie {
+    text-align: center;
+}
+.nm {
+    float: right;
+    margin-top: -420px;
+    margin-right: 90px;  
+}
+.btn-custom1 {
+    border-radius: 30px;
+}
+.btn-one {
+    padding: 12px;
+    width: 120px;
+    height: 45px;
+    font-size: 15px;
+}
+.btn-two {
+    padding: 12px;
+    width: 120px;
+    height: 45px;
+    font-size: 15px;
+    border: 1px solid #BEBEBE;
+    background-color: white;   
+}
+.no h1 {
+    display: flex;
+}
+.np {
+    margin: -95px 0px 0px 200px;
+}
+.nq {
+    margin: -95px 0px 0px 350px;
+}
+.io {
+    margin-top: -10px;
+}
+.y {
+    background: linear-gradient(90deg, #c1dee8 0%, #fbd9b9 100%);
+    border-radius: 15px;
+    margin: 20px 20px 0 20px;
+    padding: 0 15px;
+    height: 500px;
+}
+.x h1 {
+    font-size: 46px;
+    font-weight: 600;
+    line-height: 70.4px;
+    text-align: left;
+    margin: 50px 0px 0px 0px; 
+}
+.c img {
+    width: 50%;
+    margin-top: -290px;
+    margin-left: 500px;
+}
+.m {
+    margin-top: 150px;
+}
+.bn {
+    padding-top: 30px;
+    font-size: 35px;
+}
+.v {
+    margin: 10px 0px 0px 0px;
+}
+@media  screen and (min-width:0px) and (max-width:576px){
+     .f img {
+        flex-direction: column;
+        margin-top: 50px;
+        margin-left: 100px;
+} 
+    .heading {
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+    .card-group {
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .nm {
+        width: 30%;
+        flex-direction: column;
+        margin-top: -530px;
+        margin-right: 300px; 
+    }
+    .c img {
+        flex-direction: column;
+        margin-top: -30px;
+        margin-left: 100px;
+    }
+    }
+
+
+    
+
+
+
+
+
+
+
+
+
+
